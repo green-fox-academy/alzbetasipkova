@@ -1,4 +1,6 @@
-public class alzbeta {
+import java.util.Scanner;
+public class alzbeta
+{
     public static void main(String[] args) {
 
         System.out.println("Alžběta");
