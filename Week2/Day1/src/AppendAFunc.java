@@ -1,16 +1,18 @@
-public class AppendAFunc {
+public class AppendaFunc {
+
     public static void main(String[] args) {
 
         String typo = "Chinchill";
-        appendAFunc(typo);
+
+        System.out.println(appendAFunc(typo));
     }
 
-    public static void appendAFunc(String input){
+    public static String appendAFunc (String inputParameter) {
+        String appendix = "a";
 
-        System.out.println(input + "a");
+        return inputParameter + appendix;
     }
 }
-
 
 //  Create the usual class wrapper
 //  and main method on your own.
