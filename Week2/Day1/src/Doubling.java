@@ -15,7 +15,7 @@
 // - Create a function called `doubling` that doubles it's input parameter and returns with an integer
 // - Print the result of `doubling(baseNum)`*/
 
-public class Dubling {
+public class Doubling {
 
     public static void main(String[] args) {
         int number = 123;

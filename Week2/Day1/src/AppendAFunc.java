@@ -1,4 +1,4 @@
-public class AppendaFunc {
+public class AppendAFunc {
 
     public static void main(String[] args) {
 
@@ -8,9 +8,9 @@ public class AppendaFunc {
     }
 
     public static String appendAFunc (String inputParameter) {
-        String appendix = "a";
+        inputParameter += "a";
 
-        return inputParameter + appendix;
+        return inputParameter;
     }
 }
 
