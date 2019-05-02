@@ -10,6 +10,8 @@ public class WriteMultipleLines {
 
    ableToWrite("my-file2.txt", "Martin", 2);
 
+
+
     }
 
 
@@ -30,6 +32,8 @@ public class WriteMultipleLines {
 
         }
     }
+
+
 }
 
 
