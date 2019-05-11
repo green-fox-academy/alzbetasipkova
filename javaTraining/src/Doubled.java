@@ -27,7 +27,6 @@ public class Doubled {
                 }
                 text.add(decrypted);
             }
-
             Path pathTWo = Paths.get("/Users/bettynka/Desktop/GreenFox/alzbetasipkova/javaTraining/src/duplicated-char.txt");
             Files.write(pathTWo, text);
         } catch (Exception error) {
