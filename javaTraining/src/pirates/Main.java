@@ -1,3 +1,5 @@
+package pirates;
+
 import pirates.Pirate;
 import pirates.Ship;
 
